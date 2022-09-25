@@ -1,0 +1,16 @@
+.each-item {
+  font-size: 1.8rem;
+  font-family: sans-serif;
+  font-weight: bold;
+  max-width: 47rem;
+  line-height: 1.8;
+  display: flex;
+  justify-content: center;
+  padding: 1.2rem 2rem;
+  border-radius: 0.9rem;
+  box-shadow: 0 2px 7px 6px rgba(0, 0, 0, 0.05);
+  margin-bottom: 1.2rem;
+  background-color: #dde7f6;
+  cursor: pointer;
+  font-family: 'Poppins', sans-serif;
+}
